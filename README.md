@@ -65,6 +65,6 @@ Tools:  GitHub, VSCode
 ---
 
 ### ⚡ Fun Facts
-- I like debugging code more than writing it from scratch 😄 
+- I like debugging code more than writing it from scratch 😄  
 
 - Currently exploring the MERN stack and eager to contribute to open source and team projects!
